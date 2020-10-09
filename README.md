@@ -5,6 +5,7 @@ Je met en jeu toutes mes connaissances dans le seul but de se faire plaisir 👍
 <br/>
 ### 👑 Talents/Skills :
 <br/>
+- hahaha
 ### 🔗 Réseaux/Contacts :
 
 - 📸 Youtube : [bleu40530](https://youtube.com/c/bleu40530)
