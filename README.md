@@ -6,6 +6,14 @@ Je met en jeu toutes mes connaissances dans le seul but de se faire plaisir 👍
 ### 👑 Talents/Skills :
 
 <insert graph here>
+  
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+```
 
 ### 🔗 Réseaux/Contacts :
 
