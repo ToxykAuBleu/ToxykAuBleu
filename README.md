@@ -1,7 +1,7 @@
 ### ✏️ Présentation :
 
 Développeur expérimenté python, j'essaye d'en apprendre plus sur C# que sur Java ou encore C++ 😅
-Je met en jeu toutes mes connaissances dans le seul but de se faire plaisir 👍 
+Je met en jeu toutes mes connaissances dans le seul but de me faire plaisir 👍 
 <br/>
 ### 👑 Talents/Skills :
 
@@ -11,7 +11,8 @@ Je met en jeu toutes mes connaissances dans le seul but de se faire plaisir 👍
 
 - 📸 Youtube : [bleu40530](https://youtube.com/c/bleu40530)
 - 🔉 Twitch : [ToxykAuBleu](https://twitch.tv/ToxykAuBleu)
-- 🎮 Discord : ToxykAuBleu#7951
+- 🎤 Discord : ToxykAuBleu#7951
+- 🎮 Steam : [bleu40](https://steamcommunity.com/id/bleu40/)
 - 🎹 osu! : [ToxykAuBleu](https://osu.ppy.sh/users/13117468)
 - 📩 Mail : sayorinumberone@gmail.com
 
