@@ -14,3 +14,7 @@ Je met en jeu toutes mes connaissances dans le seul but de se faire plaisir 👍
 - 🎮 Discord : ToxykAuBleu#7951
 - 🎹 osu! : [ToxykAuBleu](https://osu.ppy.sh/users/13117468)
 - 📩 Mail : sayorinumberone@gmail.com
+
+### 💡 Découvertes récentes :
+
+- VS 2019: j'ai enfin réussi à connecter mon compte Github à mon projet (je suis désormais vérifié sur mes propres commits)
