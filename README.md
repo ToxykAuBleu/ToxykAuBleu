@@ -17,5 +17,5 @@ Je met en jeu toutes mes connaissances dans le seul but de me faire plaisir 👍
 - 📩 Mail : sayorinumberone@gmail.com
 
 ### 💡 Découvertes récentes :
-
+- CardsProject: Jeu de cartes en C#, utilisant un bot Discord comme interface graphique
 - VS 2019: j'ai enfin réussi à connecter mon compte Github à mon projet (je suis désormais vérifié sur mes propres commits)
