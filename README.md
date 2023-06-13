@@ -39,5 +39,5 @@
 
 - 📷 Youtube : [ToxykAuBleu](https://youtube.com/@ToxykAuBleu)
 - 🔉 Twitch : [ToxykAuBleu](https://twitch.tv/ToxykAuBleu)
-- 🎤 Discord : ToxykAuBleu#7951
+- 🎤 Discord : @toxykaubleu
 - 🎮 Steam : [bleu40](https://steamcommunity.com/id/bleu40/)
