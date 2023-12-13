@@ -1,5 +1,7 @@
 <h1 align=center>W.I.P.</h1>
 
+<h2 align=center><a href="https://github.com/ToxykAuBleu/ToxykAuBleu/blob/main/README.fr-FR.md">🇫🇷</a> <a href="https://github.com/ToxykAuBleu/ToxykAuBleu/blob/main/README.md">🇬🇧</a></h2>
+
 <h2 align=center>🛠️ Languages - Tools 🛠️</h2>
 <p align=center>
    <a href="https://skillicons.dev">
