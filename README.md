@@ -5,8 +5,7 @@
 <h2 align=center>🛠️ Languages - Tools 🛠️</h2>
 <p align=center>
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,mysql,php,bash,cpp,cs,nodejs,js,html,css,bootstrap,typescript,angular,laravel" /><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,linux,qt,unity,visualstudio,vscode,powershell,docker,discord" />
+      <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,php,bash,cpp,cs,bun,nodejs,js,html,css,scss,bootstrap,tailwind,typescript,angular,nestjs,laravel,express,discordjs,git,github,linux,arch,qt,unity,threejs,visualstudio,vscode,powershell,docker,kubernetes,discord,notion&perline=15" />
    </a>
 </p>
 
