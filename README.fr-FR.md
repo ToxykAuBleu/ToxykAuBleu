@@ -16,7 +16,7 @@
 
 <h2 align=center>🔥 Statistiques 🔥</h2>
 <p align=center>
-   <img src="https://streak-stats.demolab.com/?user=ToxykAuBleu&theme=transparent&locale=fr" />
-   <img src="https://github-readme-stats.vercel.app/api?username=ToxykAuBleu&theme=transparent&show_icons=true&cache_seconds=86400&locale=fr" />
+   <img src="https://streak-stats.demolab.com/?user=ToxykAuBleu&theme=transparent&locale=fr" /><br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ToxykAuBleu&theme=transparent&show_icons=true&cache_seconds=86400&locale=fr" /><br/>
    <img src="https://komarev.com/ghpvc/?username=toxykaubleu&label=Vues&color=0e75b6&style=flat-square" alt="toxykaubleu" />
 </p>
